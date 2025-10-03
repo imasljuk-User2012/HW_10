@@ -1,0 +1,7 @@
+    1  CD desktop
+    2  ls
+    3  CD DESKTOP
+    4  CD desktop
+    5  $ % cd desktop
+    6  $ ls
+    7  history > command_list.csv
